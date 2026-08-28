@@ -218,11 +218,11 @@
 
 Science Fiction · Artificial Consciousness · Near Future
 
-[LICENSE](./LICENSE) · [PICTURE DISCLAIMER](./pictures/DISCLAIMER)
-
 <sub>
-本仓库采用 CC BY-NC-SA 4.0 许可协议。<br>
+保留所有权利。All rights reserved.<br>
 仓库内图片均为 AI 生成；图片生成提示中未有意指涉任何现实人物、作品或地点。
+
+All pictures are AI-generated. No intentional reference to any real person, work, or place was made in the prompts.
 </sub>
 
 </div>
